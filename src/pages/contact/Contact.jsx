@@ -31,7 +31,7 @@ const Contact = () => {
                 <div className="d-flex align-items-center mb-3">
                   <i className="ri-phone-fill text-primary mr-3"></i>
                   <div className="d-flex flex-column">
-                    <h6 className="font-weight-bold">Call US</h6>
+                    <h6 className="font-weight-bold">Just Call</h6>
                     <p className="m-0">+256 776050007</p>
                   </div>
                 </div>
